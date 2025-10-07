@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shroudfall-warband-builder/static/css/main.9d0eadbc.css",
+    "main.js": "/shroudfall-warband-builder/static/js/main.804392e4.js",
+    "index.html": "/shroudfall-warband-builder/index.html",
+    "main.9d0eadbc.css.map": "/shroudfall-warband-builder/static/css/main.9d0eadbc.css.map",
+    "main.804392e4.js.map": "/shroudfall-warband-builder/static/js/main.804392e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d0eadbc.css",
+    "static/js/main.804392e4.js"
+  ]
+}
